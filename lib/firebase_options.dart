@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBOj_1CrjqE05x3jpDQgFA0_TGvHtNdCQw',
+    apiKey: '',
     appId: '1:40980001337:web:5660318050a1a4f78ad3e8',
     messagingSenderId: '40980001337',
     projectId: 'watch-76784',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCDhX2_2kkHNzbBJ4Qta3b-b0oSSNJTHNc',
+    apiKey: '',
     appId: '1:40980001337:android:7c0ede1ffaf41d5f8ad3e8',
     messagingSenderId: '40980001337',
     projectId: 'watch-76784',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDbFkSc3qSMVWDOL7p0_nM1lzIDM-8IujY',
+    apiKey: '',
     appId: '1:40980001337:ios:d52f584850e7c8998ad3e8',
     messagingSenderId: '40980001337',
     projectId: 'watch-76784',
