@@ -1,0 +1,58 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "forgot_password": "Forgot Password?",
+  "register": "Register",
+
+  "user": "User",
+  "back": "Back",
+
+  "search": "Search...",
+  "all": "All",
+  "myAndFriends": "My and Friends",  
+  "onlyMy": "Only My",              
+  "onlyFriends": "Only Friends",     
+  "movies": "Movies",
+  "series": "Series",
+  "others": "Others",
+  "pirata": "Pirate",                  
+  "friends": "Friends",
+  "addNew": "Add New",
+  "friendRequest": "Friend Request",
+  "inserthereuserFriend": "Insert here user Friend",
+  "m": "M",
+
+  "name": "Name",
+  "selectingType": "SelectingType",
+  "selectingTheplataformToWatch": "Selecting the platform to watch",
+  "selectingCategory": "Selecting category",
+  "movie": "Movie",
+  "acao": "Action",
+  "aventura": "Adventure",
+  "comedia": "Comedy",
+  "terror": "Terror",
+  "romance": "Romance",
+  "ficcaoCientifica": "Science fiction",
+  "description": "Description(Don´t necessary)",
+  "save": "Save",
+  "cancel": "Cancel",
+
+  "ratingAnime": "Ratings Anime",
+  "ratingSerie": "Ratings Serie",
+  "ratingMovie": "Ratings Movie",
+  "rating": "Ratings",
+  "list": "List",
+
+  "areyouSure": "Are you sure?",
+  "close": "Close",
+  "delete": "Delete",
+  "deleteAccount": "Delete account",
+  "logout": "Logout",
+
+  "enterEmailtosendYourPassword": "Enter email to send you a password",
+  "anemailforpasswordresethasbeensenttoyouremail": "An email for password reset has been sent to your email",
+  "send": "Send",
+  "back": "Back"
+
+}
